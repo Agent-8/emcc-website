@@ -45,7 +45,7 @@ class Home extends React.Component {
           <Container style={{display: 'flex', alignItems: 'center', flexDirection: 'column'}}>
             <h1 style={headingStyles}>EMCC</h1>
             <h3 style={subheadingStyles}>The Exeter Math Club&nbsp;Competition</h3>
-            <h5 style={{fontWeight: '300'}}>January 21, 2017, Phillips Exeter Academy</h5>
+            <h5 style={{fontWeight: '300'}}>January 21, 2018, Phillips Exeter Academy</h5>
             <p style={{fontWeight: '200', maxWidth: '500px'}}>
               The 2017 Exeter Math Club Competition is now over.  Thank you for your participation!
               Coaches will be emailed results soon.
