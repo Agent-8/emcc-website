@@ -17,7 +17,7 @@ class Contest extends React.Component {
             <div style={{ paddingBottom: "5px", margin: "40px 0 20px", borderBottom: "1px solid #bbb"}}>
               <h2>Contest Information</h2>
             </div>
-            <p>Detailed information is also available in the 2017 Coaches' Packet, which coaches can access by logging in.
+            <p>Detailed information is also available in the 2018 Coaches' Packet, which coaches can access by logging in.
             These packets will also be handed out at registration.</p>
             <h3>
               Schedule
